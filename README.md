@@ -23,9 +23,8 @@ A web developer and programming enthusiast, I always enjoy discovering new excit
 - 🚀 &nbsp; I’m currently learning React.js and Node.js.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anisya624).
 - 👾 &nbsp; I have built both 3-D and 2-D games in Unity.
-- ✍🏻 &nbsp; I like writing tech blogs and you can read them on my medium blog - https://medium.com/@Harshit_Raj_14
+- ✍🏻 &nbsp; I like writing tech blogs 
 - 👨‍💻 &nbsp; I also like to spend my free time doing open source contribution and challenge myself and develop my skills.
-- 📫 &nbsp; How to reach me: harshit.raj2021@vitbhopal.ac.in 
 
     
     
